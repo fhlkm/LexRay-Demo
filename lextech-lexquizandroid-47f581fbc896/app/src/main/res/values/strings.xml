@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LextechJSONQuiz</string>
+    <string name="ws_url">http://mobiletest.lextech.com</string>
+    <string name="title_activity">Transactions</string>
+    <string name="header_id">ID</string>
+    <string name="header_description">Description</string>
+    <string name="header_price">Price</string>
+    <string name="footer_total">Total:</string>
+    <string name="total_price_zero">$0.00</string>
+    <string name="refresh">Refresh</string>
+    <color name="lextech_blue">#009fda</color>
+    <color name="lextech_gray">#616365</color>
+    <color name="lextech_blue_dark">#003C69</color>
+</resources>
